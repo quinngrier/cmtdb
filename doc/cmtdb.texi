@@ -33,9 +33,10 @@
 @node Top
 @top CMTDB @w{@value{PACKAGEVERSION}}
 
-This manual is for
-CMTDB @w{@value{PACKAGEVERSION}},
-which was released on @w{@value{PACKAGEDATE}}@.
+This manual is for CMTDB
+@w{@value{PACKAGEVERSION}@comma{}}
+which was released on
+@w{@value{PACKAGEDATE}@.}
 @ifplaintext
 
 @insertcopying
